@@ -7,4 +7,3 @@ public class Distance {
         System.out.println(distance);
     }
 }
-//https://dropmefiles.com/h8bnc
